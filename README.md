@@ -5,7 +5,7 @@
 1. Replace src directory.
 2. Edit line 14 in Dcokerfile.
 3. ./build-docker-image.bash
-4. run-docker-container.bash
+4. ./run-docker-container.bash
 
 ## References
 
